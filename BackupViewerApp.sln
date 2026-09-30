@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.0
+MinimumVisualStudioVersion = 10.0.40219.4
+Project("{FAE04EC0-301F-1D2B-2BDA-8D83E7E9D1F0}") = "BackupViewerApp", "BackupViewerApp\BackupViewerApp.csproj", "{B17E1F2E-DF48-4EAB-8D97-5057AAB5F14F}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {B17E1F2E-DF48-4EAB-8D97-5057AAB5F14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {B17E1F2E-DF48-4EAB-8D97-5057AAB5F14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {B17E1F2E-DF48-4EAB-8D97-5057AAB5F14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {B17E1F2E-DF48-4EAB-8D97-5057AAB5F14F}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
